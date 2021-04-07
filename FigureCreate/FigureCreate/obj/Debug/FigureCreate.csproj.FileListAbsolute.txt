@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\FigureCreate\FigureCreate\bin\Debug\FigureCreate.exe.config
+C:\Users\USER\source\repos\FigureCreate\FigureCreate\bin\Debug\FigureCreate.exe
+C:\Users\USER\source\repos\FigureCreate\FigureCreate\bin\Debug\FigureCreate.pdb
+C:\Users\USER\source\repos\FigureCreate\FigureCreate\obj\Debug\FigureCreate.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\FigureCreate\FigureCreate\obj\Debug\FigureCreate.Form1.resources
+C:\Users\USER\source\repos\FigureCreate\FigureCreate\obj\Debug\FigureCreate.Properties.Resources.resources
+C:\Users\USER\source\repos\FigureCreate\FigureCreate\obj\Debug\FigureCreate.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\FigureCreate\FigureCreate\obj\Debug\FigureCreate.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FigureCreate\FigureCreate\obj\Debug\FigureCreate.exe
+C:\Users\USER\source\repos\FigureCreate\FigureCreate\obj\Debug\FigureCreate.pdb
